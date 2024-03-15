@@ -6,12 +6,17 @@
         "radio": "*",
         "microphone": "*",
         "smarthome-kit": "github:tinkertanker/pxt-smarthome#v2.2.1",
-        "servo": "*"
+        "servo": "*",
+        "datalogger": "*",
+        "pxt-esp8266_thingspeak": "github:alankrantas/pxt-esp8266_thingspeak#v0.0.3",
+        "无标题": "pkg:无标题.json",
+        "Environment-and-Science-IoT": "github:tinkertanker/pxt-iot-environment-kit#v5.2.4"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "无标题.json"
     ],
     "testFiles": [
         "test.ts"
